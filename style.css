@@ -1,0 +1,138 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.size {
+    width: 198.07px;
+    height: 59px;
+    left: 212px;
+    top: 30px;
+}
+
+.signinbtn {
+    width: 104px;
+    height: 40px;
+    left: 1201px;
+    top: 25px;
+    background: #21B573;
+    border-radius: 20px;
+    color: white;
+}
+
+.getbtn {
+    width: 153px;
+    height: 40px;
+    left: 2085px;
+    top: 470px;
+    background: #21B573;
+    border-radius: 20px;
+    color: white;
+}
+.custom-button {
+    border-radius: 20px;
+    padding: 5px 12px;
+    background-color: #21B573;
+}
+
+.bg1, .bg2 {
+    background: #f0fff0;
+}
+
+.red {
+    color: #FC5C27;
+    letter-spacing: 1px;
+    font-weight: normal;
+}
+
+.hdng1 {
+    font-weight: bold;
+}
+
+.hdngcolor {
+    color: #21B573;
+
+}
+
+.lnhght {
+    line-height: 35px;
+}
+
+
+.cardd {
+    padding: 50px 0px;
+}
+
+
+
+.card-modify {
+    border: none;
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+
+.card:hover {
+    box-shadow: 2px 2px 20px lightgray;
+    background-color: white;
+}
+
+.footr h6 {
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.fotr-img {
+    width: 18%;
+}
+
+.card-modify-2 {
+    padding: 15px;
+    border: none;
+    box-shadow: 2px 2px 20px lightgrey;
+    border-radius: 20px;
+}
+
+.oc-title, .testimonial h1 {
+    margin: 10px 0px 80px 0px;
+    font-size: 60px;
+    font-weight: bold;
+    color: #413960;
+}
+
+.testimonial {
+    margin-top: 100px;
+}
+
+.testimonial h3 {
+    font-weight: 400;
+
+}
+
+footer {
+    margin-top: 100px;
+    background-color: #282531;
+    padding: 20px 0px 20px 0px;
+}
+
+footer h3 {
+    margin-left: 15px;
+    margin-top: 60px;
+    color: white;
+}
+
+.txt {
+    margin-top: 60px;
+}
+
+footer a, footer h4, .copyright p {
+    color: white !important;
+}
+
+footer a:hover {
+    text-align: center;
+}
+
+.copyright p {
+    padding: 150px 0px 20px 0px;
+    font-size: 25px;
+}
